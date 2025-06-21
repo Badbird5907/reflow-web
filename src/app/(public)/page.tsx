@@ -48,6 +48,7 @@ const faq = [
 ]
 const rules = [
   "You must document your progress and post scraps in the appropriate Slack channels",
+  "You must track time using Hackatime",
   "At least 80% of the components in your design should require SMD soldering",
   "You must NOT rely on external assembly serivces",
   "Your design should pass automated review: see docs",
